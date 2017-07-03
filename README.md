@@ -1,6 +1,8 @@
-# Welcome to GitHub Pages
-## Testing
-### Test
+# Welcome to Google FIR 2017 - GitHub Pages
+
+## [editor on GitHub](https://github.com/GoogleFIR2017/GoogleFIR2017.github.io/edit/master/README.md)
+
+## Note
 
 You can use the [editor on GitHub](https://github.com/GoogleFIR2017/GoogleFIR2017.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

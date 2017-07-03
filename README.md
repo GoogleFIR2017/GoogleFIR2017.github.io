@@ -1,6 +1,9 @@
-# Welcome to Google FIR 2017 - GitHub Pages
+# Welcome to Google FIR 2017
 
-## [editor on GitHub](https://github.com/GoogleFIR2017/GoogleFIR2017.github.io/edit/master/README.md)
+## Home
+- [Home Page](https://googlefir2017.github.io/)
+- [Home File Directory](https://github.com/GoogleFIR2017)
+
 
 ## Note
 
